@@ -4,6 +4,6 @@
 
 * Good OO desings are reusable, extensible and maintainable.
 
+Alt-H2 ##Strategy Pattern 
 
-
-<p style='color:red'>This is some red text.</p>
+	⋅⋅* Hello
